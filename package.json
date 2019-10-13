@@ -1,0 +1,20 @@
+{
+  "name": "meu_portfolio",
+  "version": "1.0.0",
+  "description": "Meu Portfolio Responsivo e Moderno",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [
+    "portfolio",
+    "elias",
+    "carvalho",
+    "santos"
+  ],
+  "author": "Elias Carvalho dos Santos",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

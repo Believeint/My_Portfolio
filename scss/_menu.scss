@@ -41,7 +41,6 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
   visibility: hidden;
 
   &.show {
@@ -70,6 +69,7 @@
     &.show {
       // Deslizar por de Cima
       transform: translate3d(0, 0, 0);
+      opacity: 0.8;
     }
   }
 
@@ -78,6 +78,7 @@
     background: $primary-color;
     transform: translate3d(0, 100%, 0);
     @include easeOut;
+    opacity: 0.92;
 
     &.show {
       // Deslizar por de baixo

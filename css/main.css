@@ -70,7 +70,7 @@
 .menu-branding .retrato {
   width: 250px;
   height: 250px;
-  background: url("../img/eu_portrait.jpg");
+  background: url("/../img/eu_portrait.jpg");
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
@@ -128,7 +128,7 @@ body {
   line-height: 1.5;
 }
 body#bg-img {
-  background: url("../img/background.jpg");
+  background: url("/../img/background.jpg");
   background-attachment: fixed;
   background-size: cover;
 }

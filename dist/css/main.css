@@ -70,7 +70,7 @@
 .menu-branding .retrato {
   width: 250px;
   height: 250px;
-  background: url("/dist/img/eu_portrait.jpg");
+  background: url("dist/img/eu_portrait.jpg");
   border-radius: 50%;
   border: solid 3px #eece1a;
 }

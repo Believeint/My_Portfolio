@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "Meu Portfolio Responsivo e Moderno",
   "main": "index.js",
+<<<<<<< HEAD
+<<<<<<< HEAD
   "homepage": "https://Believeint.github.io/My_Portfolio",
+=======
+>>>>>>> parent of 5bb0937... Config
+=======
+>>>>>>> parent of 5bb0937... Config
   "scripts": {
-    "sass": "node-sass -w scss/ -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
+    "sass": "node-sass -w scss/ -w scss/ -o dist/css/ --recursive"
   },
   "keywords": [
     "portfolio",
@@ -17,7 +22,6 @@
   "author": "Elias Carvalho dos Santos",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0"
   }
 }

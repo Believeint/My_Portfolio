@@ -3,13 +3,7 @@
   "version": "1.0.0",
   "description": "Meu Portfolio Responsivo e Moderno",
   "main": "index.js",
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "homepage": "https://Believeint.github.io/My_Portfolio",
-=======
->>>>>>> parent of 5bb0937... Config
-=======
->>>>>>> parent of 5bb0937... Config
+"homepage": "https://Believeint.github.io/My_Portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -w scss/ -o dist/css/ --recursive"
   },
